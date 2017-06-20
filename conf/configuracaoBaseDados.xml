@@ -1,0 +1,32 @@
+<grafix.basedados.ConfiguracaoBaseDados>
+  <atualizaViaInternet>false</atualizaViaInternet>
+  <formatoBaseDados></formatoBaseDados>
+  <pastaBDIS></pastaBDIS>
+  <periodicidade>1</periodicidade>
+  <porta>8080</porta>
+  <pregoesMostrados>100</pregoesMostrados>
+  <proxy></proxy>
+  <senhaProxy></senhaProxy>
+  <senhaVendor></senhaVendor>
+  <tiposPapeis>
+    <bonus>false</bonus>
+    <cerDebDivBdr>false</cerDebDivBdr>
+    <concordatarias>false</concordatarias>
+    <direitoRecibo>false</direitoRecibo>
+    <fracionario>false</fracionario>
+    <fundoImob>false</fundoImob>
+    <lotePadrao>true</lotePadrao>
+    <opcCompIndice>false</opcCompIndice>
+    <opcVendaIndice>false</opcVendaIndice>
+    <opcoesCompra>false</opcoesCompra>
+    <opcoesVenda>false</opcoesVenda>
+    <outros>false</outros>
+    <recJudic>false</recJudic>
+    <termo>false</termo>
+  </tiposPapeis>
+  <urlDatas>http://www.grafix2.com/datas.dat</urlDatas>
+  <usaProxy>false</usaProxy>
+  <usuarioProxy></usuarioProxy>
+  <usuarioVendor></usuarioVendor>
+  <vendor></vendor>
+</grafix.basedados.ConfiguracaoBaseDados>
